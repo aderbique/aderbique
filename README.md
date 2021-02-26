@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on cool new ideas for blockchain applications. Also, autonomous vehicles are pretty cool! 
 - 🤔 I’m looking for help with writing a master's thesis.
 - 💬 Ask me about cloud architecture, my [self-driving subaru](https://www.instagram.com/p/CAyo5meFQ6m/?utm_source=ig_web_copy_link), or recreational activies in Arizona!
-- 📫 How to reach me: austin@derbique.org
+- 📫 How to reach me: austin@derbique.org. You can encrypt your message using [PGP](https://www.openpgp.org/software/) with my public key found here https://derbique.org/#keys!
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I like to brew beer! It's more scientific than you might think. I call it enginbeering! See my recipes [here](https://brewgr.com/!/austin).
