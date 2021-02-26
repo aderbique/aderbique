@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my master of computer science from Arizona State University specializing in cryptography and distributed systems. In my day job, I work in the clouds of Amazon and Openstack where I design, architecht, and implement cloud native applications.
+- 🔭 I’m currently working on my master of computer science from Arizona State University specializing in cryptography and distributed systems. In my day job, I design, architect, and implement cloud native applications on AWS.
 - 🌱 I’m currently learning about [blockchain enabled SDN](http://derbique.org/research_survey.pdf), [censorship circumvention](https://derbique.org/bgp.pdf), AI/ML for anonamly detection in networking, security improvements in distributed systems.
 - 👯 I’m looking to collaborate on cool new ideas for blockchain applications. Also, autonomous vehicles are pretty cool! 
 - 🤔 I’m looking for help with writing a master's thesis.
