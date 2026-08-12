@@ -7,4 +7,4 @@
 - ✍️ I also write about my travels, life stories, and project posts on my [personal blog](https://blog.derbique.us). Feel free to check it out!
 - 📫 How to reach me: austin@derbique.org. You can encrypt your message using [PGP](https://www.openpgp.org/software/) with my public key [here](https://derbique.org/#keys)!
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I brew beer as a hobby, and I like to call it "enginbeering"! Check out my recipes [here](https://brewgr.com/!/austin).
+- ⚡ Fun fact: I brew beer as a hobby, and I like to call it "enginbeering"! Check out my recipes [here](https://openbrew.net/!/austin).
